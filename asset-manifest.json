@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mera-cart/static/css/main.0206564f.css",
+    "main.js": "/Mera-cart/static/js/main.96d1abd7.js",
+    "static/js/453.ef81f9e4.chunk.js": "/Mera-cart/static/js/453.ef81f9e4.chunk.js",
+    "index.html": "/Mera-cart/index.html",
+    "main.0206564f.css.map": "/Mera-cart/static/css/main.0206564f.css.map",
+    "main.96d1abd7.js.map": "/Mera-cart/static/js/main.96d1abd7.js.map",
+    "453.ef81f9e4.chunk.js.map": "/Mera-cart/static/js/453.ef81f9e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0206564f.css",
+    "static/js/main.96d1abd7.js"
+  ]
+}
